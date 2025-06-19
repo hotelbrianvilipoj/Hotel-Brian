@@ -1,2 +1,2 @@
 # Hotel-Brian
-Hotel Vilipoj Rruga(Road) Nr 2
+Hotel Brian Velipoj Rruga(Road) Nr 2
